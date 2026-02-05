@@ -27,11 +27,13 @@ The dashboard was built in **Power BI**, using KPI cards, column charts, combo c
 - Monthly trends show dips in **May–August** requiring deeper analysis.
 
 ---
+## 4. Dashboard Preview
+![Dashboard Screenshot](Campaign Analytics Dashboard Screenshot.png)
 
+---
 #  Detailed Insights
 
 ## 1️) Platform Performance
-
 ###  TikTok — Best Overall Performer
 - Highest ROAS: **7.6**
 - Low spend, high profit
