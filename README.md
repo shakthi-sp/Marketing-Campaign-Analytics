@@ -16,8 +16,6 @@ The dashboard was built in **Power BI**, using KPI cards, column charts, combo c
 
 ---
 
----
-
 ## 2. Files Included
 | File Name | Description |
 |------------|-------------|
