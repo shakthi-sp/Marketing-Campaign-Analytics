@@ -16,6 +16,17 @@ The dashboard was built in **Power BI**, using KPI cards, column charts, combo c
 
 ---
 
+---
+
+## 2. Files Included
+| File Name | Description |
+|------------|-------------|
+| `Campaign_Analysis.pbix` | Power BI file |
+| `global_ads_performance_dataset.csv` | Dataset used for analysis |
+| `Campaign Analytics Dashboard Screenshot.png` | Screenshot of the final dashboard |
+
+---
+
 ##  Executive Summary
 - Total ad spend was **$11M** and total revenue achieved was **$54M**, giving a ROAS of **4.9**.**
 - Profit Margin: **79.5%**, meeting the 60% target.
@@ -97,33 +108,26 @@ The dashboard was built in **Power BI**, using KPI cards, column charts, combo c
 
 #  Recommendations
 
-### ✔ Increase Spend on TikTok
+###  Increase Spend on TikTok
 - Best ROI(7.6)
 - Scalling TikTok campaigns will directly boost profitability.
 
-### ✔ Scale Search Campaigns
+###  Scale Search Campaigns
 - Consistent top performer across all metrics.
 - Increase spend here for maximum return.
 
-### ✔ Reduce or Optimize Google Ads
+###  Reduce or Optimize Google Ads
 High spend + low return → requires diagnostic analysis.
 
-### ✔ Fix Shopping Campaigns
+###  Fix Shopping Campaigns
 - VeryLow ROAS → potential issues with product feed/keywords.
 
-### ✔ Investigate UAE & Canada Performance
+###  Investigate UAE & Canada Performance
 High spend, low return → needs deeper review.
 
-### ✔ Analyze May–August Drop
+###  Analyze May–August Drop
 Check seasonality, creative fatigue, targeting changes.
 
 ---
----
 
-#  Project Files
-- `Dashboard.pbix` — Power BI File  
-- `README.md` — Documentation  
-- `Screenshots/` — Dashboard Images
-
----
 
