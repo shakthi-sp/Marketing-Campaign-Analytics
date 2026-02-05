@@ -28,7 +28,7 @@ The dashboard was built in **Power BI**, using KPI cards, column charts, combo c
 
 ---
 ## 4. Dashboard Preview
-![Campaign Analytics Dashboard Screenshot.png](Campaign Analytics Dashboard)
+![](Campaign Analytics Dashboard Screenshot.png)
 
 ---
 #  Detailed Insights
