@@ -1,6 +1,6 @@
 #  Marketing Campaign Performance Analysis — Power BI Dashboard
 
-##  Project Brief
+##  Project Overview
 This project analyzes marketing campaign performance across multiple digital platforms and campaign types. The goal is to understand how ad spend converts into revenue, identify high-performing platforms and campaigns, and recommend optimization strategies to improve ROAS(Return on Ad Spent/Invesment) and profitability.
 
 The dashboard was built in **Power BI**, using KPI cards, column charts, combo charts, line charts, tables, and slicers to provide a clear, interactive view of performance across platforms, campaigns, countries, and industries.
