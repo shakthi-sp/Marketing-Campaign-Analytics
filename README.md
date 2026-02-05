@@ -30,7 +30,7 @@ The dashboard was built in **Power BI**, using KPI cards, column charts, combo c
 
 #  Detailed Insights
 
-## 1️ Platform Performance
+## 1️) Platform Performance
 
 ###  TikTok — Best Overall Performer
 - Highest ROAS: **7.6**
@@ -44,7 +44,7 @@ The dashboard was built in **Power BI**, using KPI cards, column charts, combo c
 
 ---
 
-## 2 Campaign Type Performance
+## 2) Campaign Type Performance
 
 ###  Search Campaigns — Top Performer
 - Highest revenue  
@@ -60,14 +60,14 @@ The dashboard was built in **Power BI**, using KPI cards, column charts, combo c
 
 ---
 
-## 3️⃣ Monthly Trend Analysis
+## 3️) Monthly Trend Analysis
 - Revenue spikes in **April, June, August, September, December**  
 - Performance drops in **May–July**  
 - Ad spend stayed stable → drop due to performance, not budget  
 
 ---
 
-## 4️ Country-Level Insights
+## 4️) Country-Level Insights
 
 ###  India — Best ROAS
 - Highest efficiency
@@ -85,7 +85,7 @@ The dashboard was built in **Power BI**, using KPI cards, column charts, combo c
 
 ---
 
-## 5️⃣ Industry Insights
+## 5️) Industry Insights
 - **SaaS:** Highest revenue  
 - **EdTech:** Strong profit (~80%)  
 - **FinTech:** Weak performance  
@@ -93,7 +93,7 @@ The dashboard was built in **Power BI**, using KPI cards, column charts, combo c
 
 ---
 
-# 🧩 Recommendations
+#  Recommendations
 
 ### ✔ Increase Spend on TikTok
 - Best ROI(7.6)
@@ -118,7 +118,7 @@ Check seasonality, creative fatigue, targeting changes.
 ---
 ---
 
-# 📂 Project Files
+#  Project Files
 - `Dashboard.pbix` — Power BI File  
 - `README.md` — Documentation  
 - `Screenshots/` — Dashboard Images
